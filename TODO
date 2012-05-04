@@ -1,0 +1,4 @@
+
+-Solve deployment problem with JBoss 7
+-Test EJB3 entity beans
+-Test web/rmi client layer
